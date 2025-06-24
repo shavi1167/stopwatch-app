@@ -38,3 +38,7 @@
 .reset {
   background-color: rgb(250, 185, 8);
 }
+.lap {
+  background-color: rgb(0, 0, 0);
+  color: blue;
+}
